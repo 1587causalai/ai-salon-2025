@@ -10,3 +10,4 @@
   * [资源说明](resources/README.md)
 * 学习总结
   * [总结说明](summary/README.md) 
+* [更新日志](CHANGELOG.md)
