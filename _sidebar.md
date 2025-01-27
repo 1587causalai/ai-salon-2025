@@ -6,7 +6,6 @@
   * [笔记说明](papers/README.md)
 * 代码实践
   * [实践说明](practice/README.md)
-* 资源整理
-  * [资源说明](resources/README.md)
 * 学习总结
   * [总结说明](summary/README.md) 
+* [资源整理](resources/README.md)
