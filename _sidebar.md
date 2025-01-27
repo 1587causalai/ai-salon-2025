@@ -1,4 +1,5 @@
 * [首页](README.md)
+* [更新日志](CHANGELOG.md)
 * 每日论文讨论
   * [记录说明](daily/README.md)
 * 论文精读笔记
