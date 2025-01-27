@@ -1,0 +1,12 @@
+.me
+.DS_Store
+.pyc
+.pyo
+.pyd
+.pyw
+.pyz
+.py3
+.py3w
+.py3z
+
+resources/*.pdf
