@@ -10,3 +10,5 @@
 .py3z
 
 resources/*.pdf
+resources/*/
+.vscode/
