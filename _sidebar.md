@@ -1,11 +1,7 @@
 * [首页](README.md)
+* [**项目演化**](PROJECT_EVOLUTION.md)
+* [**核心问题**](CORE_QUESTIONS.md)
 * [更新日志](CHANGELOG.md)
-* 每日论文讨论
-  * [记录说明](daily/README.md)
-* 论文精读笔记
-  * [笔记说明](papers/README.md)
-* 代码实践
-  * [实践说明](practice/README.md)
-* 学习总结
-  * [总结说明](summary/README.md) 
-* [资源整理](resources/README.md)
+* [探索日志 (Daily)](daily/README.md)
+* [论文思考 (Papers)](papers/README.md)
+* [精选资源 (Resources)](resources/README.md)
